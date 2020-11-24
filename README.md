@@ -19,7 +19,7 @@
 [![](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
 
 [![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![](https://img.shields.io/badge/-SQLServer-4479A1?style=flat-square&logo=sqlserver&logoColor=white)](https://www.microsoft.com/zh-cn/sql-server/)
+[![](https://img.shields.io/badge/-SQLServer-4479A1?style=flat-square&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/zh-cn/sql-server/)
 [![](https://img.shields.io/badge/-Mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)](https://mariadb.com/)
 [![](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)](https://www.oracle.com/)
