@@ -14,8 +14,7 @@
 
 [![](https://img.shields.io/badge/-solr-D9411E?style=flat-square&logo=apache-solr&logoColor=white)](https://lucene.apache.org/solr)
 [![](https://img.shields.io/badge/-Hbase-FF7A00?style=flat-square&logo=apache&logoColor=white)](https://hbase.apache.org/)
-[![](https://img.shields.io/badge/-Elastic%20search-005571?style=flat-square&logo=elasticsearch&logoColor=white)]
-(https://www.elastic.co/cn/elasticsearch/)
+[![](https://img.shields.io/badge/-Elastic%20search-005571?style=flat-square&logo=elasticsearch&logoColor=white)](https://www.elastic.co/cn/elasticsearch/)
 [![](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)](https://firebase.google.com)
 [![](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
 
